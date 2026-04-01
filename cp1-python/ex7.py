@@ -1,5 +1,5 @@
 # Descontos e fretes
-
+#Quis testar as funções (def)
 def valor_frete(total_compras): 
     if total_compras<200:
         return 25.0
