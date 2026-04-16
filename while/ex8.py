@@ -5,7 +5,7 @@ divisores = 0
 
 while n <= num:
     if num % n == 0:
-        print(n)
+        print("Divisor =", n)
         divisores = divisores + 1
     n = n + 1
 
